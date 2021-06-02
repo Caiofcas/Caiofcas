@@ -1,5 +1,25 @@
-### Hi there 👋
+### Experience 💻
 
+- I'm a Computer Science Undergraduate at University of São Paulo. 🇧🇷
+- I'm currently working on research project under a CNPq-PIBITI grant at Instituto Butantan, which aims to identify Antiviral Peptides through Deep Learning architectures. [CV](http://lattes.cnpq.br/3175713045186885)
+
+### Interests 📖
+
+- My main interests currently are Deep Learning, Bioinformatics and Open Source projects.
+- I'm also interested in Domain Specific Languages and Deployment of ML/DL models to the Web.
+- In my free time I mostly listen to music, read and play videogames.
+
+### Other Projects
+
+- I made a few small contributions at [Biopython](https://github.com/biopython/biopython)
+- Lightning Talk about LSTM networks and text generation (Portuguese). [Youtube](https://youtu.be/CMNAlp-6bP8?t=804)
+- I was a member of [Tecs](https://tecs.ime.usp.br/), a volunteer student group focused on the social impacts of CS, where I was involved in a few projects, such as:
+  - creating and being a tutor for the first offering for a new class at USP called (Social Implications of Computing)(https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAC0485); 
+  - Giving basic computer lessons to employees in a digital inclusion project;
+
+### Contact 📫 
+
+- Reach me at caiofcastro@usp.br
 <!--
 **Caiofcas/Caiofcas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
