@@ -3,12 +3,6 @@
 - I'm a Computer Science Undergraduate at University of São Paulo. 🇧🇷
 - I'm currently working on research project under a CNPq-PIBITI grant at Instituto Butantan, which aims to identify Antiviral Peptides through Deep Learning architectures. [CV](http://lattes.cnpq.br/3175713045186885)
 
-### Interests 📖
-
-- My main interests currently are Deep Learning, Bioinformatics and Open Source projects.
-- I'm also interested in Domain Specific Languages and Deployment of ML/DL models to the Web.
-- In my free time I mostly listen to music, read and play videogames.
-
 ### Other Projects
 
 - I made a few small contributions at [Biopython](https://github.com/biopython/biopython)
@@ -20,6 +14,9 @@
 ### Contact 📫 
 
 - Reach me at caiofcastro@usp.br
+
+### Stats
+[![Caiofcas's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiofcas&theme=synthwave&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Caiofcas/Caiofcas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
