@@ -1,7 +1,8 @@
 ### Experience 💻
 
 - I'm a Computer Science Undergraduate at University of São Paulo. 🇧🇷
-- I'm currently working on research project under a CNPq-PIBITI grant at Instituto Butantan, which aims to identify Antiviral Peptides through Deep Learning architectures. [CV](http://lattes.cnpq.br/3175713045186885)
+- I'm currently a Cloud Engineer Intern at [Compensa](http://compensa.eco) 🌎
+- I'm also working on a research project under a CNPq-PIBITI grant at Instituto Butantan, which aims to identify Antiviral Peptides through Deep Learning architectures. [CV](http://lattes.cnpq.br/3175713045186885)
 
 ### Other Projects
 
