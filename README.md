@@ -1,8 +1,10 @@
 ### Experience 💻
 
 - I'm a Computer Science Undergraduate at University of São Paulo. 🇧🇷
-- I'm currently a Back End Engineer at [Compensa](http://compensa.eco) 🌎
-- I'm also working on a research project under a CNPq-PIBITI grant at Instituto Butantan, which aims to identify Antiviral Peptides through Deep Learning architectures. [CV](http://lattes.cnpq.br/3175713045186885)
+- Currently a Full Stack Web Developer at [Mindsight](https://mindsight.com.br/)
+- Formerly:
+  - BackEnd Engineer at [Compensa](http://compensa.eco) 🌎
+  - Worked on a research project under a CNPq-PIBITI grant at Instituto Butantan, which aims to identify Antiviral Peptides through Deep Learning architectures. [CV](http://lattes.cnpq.br/3175713045186885)
 
 ### Other Projects
 
@@ -14,21 +16,7 @@
 
 ### Contact 📫 
 
-- Reach me at caiofcastro@usp.br
+- Reach me at caiofontesc@gmail.com
 
 ### Stats
 [![Caiofcas's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiofcas&theme=synthwave&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Caiofcas/Caiofcas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
